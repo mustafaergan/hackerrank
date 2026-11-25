@@ -27,3 +27,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Derleme ve OS ###
+*.class
+*.log
+.env
+Thumbs.db
